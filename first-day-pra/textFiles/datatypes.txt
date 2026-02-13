@@ -1,0 +1,9 @@
+--------------->Data Types in PHP <------------------
+String 
+Integer
+Float
+Boolean
+Null
+Array
+Object(class)
+Recourse

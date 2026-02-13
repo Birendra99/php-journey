@@ -1,0 +1,6 @@
+Both are used for to store the information
+Session are more secure than cookies
+Session are on server data but cookies are run on the web broweres
+and cookies data are saved on brower as limited data to store .
+In session we can store more data than cookies .
+cookies are faster as compare to session because it reload the data on web.

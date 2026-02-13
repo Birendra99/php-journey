@@ -1,0 +1,10 @@
+Operators are just to perform a action on values.
+------>Operators Name<--------
+Arithmetic Operators : used for addition, sub, div, mpdulus, exponentiation.
+Assignment Operators
+Comparisons Operators
+Increment/Decrement Operators
+Logical Operators
+String Operators
+Array Operators Conditional
+Assignment Operators
